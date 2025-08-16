@@ -33,7 +33,7 @@ const Footer = () => {
                             <a href="mailto:goldenpearlsachievers@gmail.com" className='mailing'><li className='reach-us'>goldenpearlsachievers@gmail.com</li></a>
                         </div>
                         <div className='reach'>
-                            <img src={assets.mail} alt="" className='social-icons' />
+                            <img src={assets.map} alt="" className='social-icons' />
                             <div className='reach-info'>
                                 {/* <h3>KENYATA UNIVERSITY</h3> */}
                                 <p>Kenyata University Main Campus<br />Nairobi,P.O Box 43844-00100</p>
