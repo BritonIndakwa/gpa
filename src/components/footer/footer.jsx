@@ -45,10 +45,10 @@ const Footer = () => {
                 <div className="footer-content-center">
                     <h2>COMPANY</h2>
                     <ul className='com'>
-                        <div className="reach"><a href="">About Us</a></div>
-                        <div className="reach"><a href="">Contact Us</a></div>
-                        <div className="reach"><a href="">Privacy</a></div>
-                        <div className="reach"><a href="">Help Center</a></div>
+                        <div className="reach"><a href=""><li className='reach-us'>About Us </li></a></div>
+                        <div className="reach"><a href=""><li className='reach-us'>Contact Us </li></a></div>
+                        <div className="reach"><a href=""><li className='reach-us'>Privacy </li></a></div>
+                        <div className="reach"><a href=""><li className='reach-us'>Help Center </li></a></div>
                     </ul>
                 </div>
 
