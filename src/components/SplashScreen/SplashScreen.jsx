@@ -1,7 +1,7 @@
 import React, { useEffect } from 'react';
 import './SplashScreen.css';
 import logo from '../../Assets/banner_kids.png'
-import welcomeVideo from '../../Assets/welcome.mp4';
+import welcomeVideo from '../../Assets/gpa-vid.mp4';
 
 
 const SplashScreen = ({ onFinish }) => {
