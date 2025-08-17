@@ -25,8 +25,8 @@ const Footer = () => {
                             <a href="tel:+254706589426" className='phone-call'><li className='reach-us'>+254 706589426</li></a>
                         </div>
                         <div className='reach'>
-                            <a href="https://wa.me/254706589426?text=Hello👋"><img src={assets.whatsapp} alt="" className='social-icons' /></a>
-                             <a href="https://wa.me/254706589426?text=Hello👋"><li className='reach-us'>+254 706589426</li></a> 
+                            <a href="https://wa.me/254703367694?text=Hello👋"><img src={assets.whatsapp} alt="" className='social-icons' /></a>
+                             <a href="https://wa.me/254703367694?text=Hello👋"><li className='reach-us'>+254 706589426</li></a> 
                         </div>
                         <div className='reach'>
                             <img src={assets.mail} alt="" className='social-icons' />
