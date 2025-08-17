@@ -79,7 +79,7 @@ import gpa_ceo_boss from './gpa-ceo-boss.jpg'
         image:gpa_ceo2
     },
       {
-        details:"We priotize transparency, security, integrity, and user centricity to empower our clients to achieve their financialgoals confidently.",
+        details:"We priotize transparency, security, integrity, and user centricity to empower our clients to achieve their financia lgoals confidently.",
         image:gpa_ceo2
     },
       {
