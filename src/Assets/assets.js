@@ -31,6 +31,10 @@ import mail from './mailing.png'
 import microphone from './mic.png'
 import chats from './chat.png'
 import map from './mapin.png'
+import gpa_logo from "./gpa-logo.jpg"
+import gpa_ceo from './gpa-ceo.jpg'
+import gpa_ceo2 from './gpa-ceo2.jpg'
+import gpa_ceo_boss from './gpa-ceo-boss.jpg'
 
  export const  assets ={chats,map,cart_icon,microphone,mail,search,fash,appstore,google,youtube,instagram,tiktok,facebook,twitter,heart,phone,whatsapp,home,logo,minus,delivery,menu,cross,add,trash,profile,logout,shop_bag,black_bag};
 
@@ -38,12 +42,73 @@ import map from './mapin.png'
   
     {
         menu_name:"Womens",
-        image:product_1
+        image:gpa_logo
     },
    
        {
         menu_name:"Kids",
-        image:product_2
+        image:gpa_ceo
      },
+       {
+        menu_name:"Womens",
+        image:gpa_ceo_boss
+    },
+    //   {
+    //     menu_name:"Womens",
+    //     image:gpa_ceo2
+    // },
+ ]
+
+  export const paragraph =[
+  
+    {
+        details:"WELCOME TO GOLDEN PEARL ACHIEVERS",
+        image:gpa_logo
+    },
+   
+       {
+        details:"We are a team of 10+ students from Kenyata University, dedicated to help each other make informed decisions financially and academically.",
+        image:gpa_ceo
+     },
+       {
+        details:"Golden Pearl Achievers is a platform that provides a wide range of products and services to meet the needs of our customers.",
+        image:gpa_ceo_boss
+    },
+      {
+        details:"It aims to revolutionize personal finance management and academic support by offering intuitive digital solutions tailored to individual needs.",
+        image:gpa_ceo2
+    },
+      {
+        details:"We priotize transparency, security, integrity, and user centricity to empower our clients to achieve their financialgoals confidently.",
+        image:gpa_ceo2
+    },
+      {
+        details:"OUR SERVICES:",
+        image:gpa_ceo2
+    },
+         {
+        details:"1.Personal Budgeting Tools.",
+        image:gpa_ceo2
+    },
+         {
+        details:"2.Investment Management.",
+        image:gpa_ceo2
+    },
+         {
+        details:"3.Financial Planning.",
+        image:gpa_ceo2
+    },
+         {
+        details:"4.Credit Monitoring.",
+        image:gpa_ceo2
+    },
+         {
+        details:"5.Educational Resources.",
+        image:gpa_ceo2
+    },
+         {
+        details:"Our platform is here to empower our clients in making informed decisions and achieving financial independence.",
+        image:gpa_ceo2
+    },
  ]
  

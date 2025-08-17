@@ -25,8 +25,8 @@ const Footer = () => {
                             <a href="tel:+254706589426" className='phone-call'><li className='reach-us'>+254 706589426</li></a>
                         </div>
                         <div className='reach'>
-                            <a href="https://wa.me/254740935676?text=Hello👋"><img src={assets.whatsapp} alt="" className='social-icons' /></a>
-                             <a href="https://wa.me/254740935676?text=Hello👋"><li className='reach-us'>+254 706589426</li></a> 
+                            <a href="https://wa.me/254706589426?text=Hello👋"><img src={assets.whatsapp} alt="" className='social-icons' /></a>
+                             <a href="https://wa.me/254706589426?text=Hello👋"><li className='reach-us'>+254 706589426</li></a> 
                         </div>
                         <div className='reach'>
                             <img src={assets.mail} alt="" className='social-icons' />
@@ -65,6 +65,7 @@ const Footer = () => {
                 </div> */}
                 <div className="footer-content-left">
                     {/* <Link to='/'><h2 className='footer-logo' ></h2>X-Fash</Link> */}
+                    <div className='logo-footer'><img src="/gpa-logo.jpg" alt="logo" className="footer-logo" /><h2>GOLDEN PEARL ACHIEVERS</h2></div>
                     <p>Access our social media platforms for efficient communication and clarifications .</p>
                     <div className="footer-social-icons">
                         <img src={assets.twitter} alt="" className='social-icons' />

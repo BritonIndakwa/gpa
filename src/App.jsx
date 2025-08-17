@@ -3,6 +3,7 @@ import './App.css';
 import { Route, Routes, useLocation, useNavigate } from 'react-router-dom';
 import { Home } from './pages/home/home';
 import SplashScreen from './components/SplashScreen/SplashScreen'
+
 import Footer from './components/footer/footer';
 
 const App = () => {

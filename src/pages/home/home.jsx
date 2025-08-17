@@ -3,6 +3,7 @@ import './home.css'
 import Footer from '../../components/footer/footer';
 import Navbar from '../../components/navbar/navbar';
 import Carousel from '../../components/carousel/carousel';
+import Header from '../../components/hearder/hearder';
 
 export const Home = () => {
 //   const images = menu_list.map(item => item.menu_image);
@@ -25,6 +26,7 @@ export const Home = () => {
   return (
     <div >
       <Navbar  />
+      <Header/>
 
       {/* <Header /> */}
       {/* <Verify/> */}
@@ -39,6 +41,7 @@ export const Home = () => {
         )}
       </div> */}
       <Carousel/>
+
       {/* <ExploreMenu category={category} setCategory={setCategory} />
       <ItemDisplay category={category} items={homeProducts} />
       <AppDownload /> */}
